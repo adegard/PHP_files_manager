@@ -39,7 +39,7 @@ chmod 755 files
 Access the script via your browser:
 
 Code
-http://yourdomain.com/index.php
+http://yourdomain.com/filesviewer.php
 
 ## 🛠 Requirements
 PHP 5.6 or higher
