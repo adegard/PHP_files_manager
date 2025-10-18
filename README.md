@@ -3,6 +3,8 @@
 
 A lightweight and responsive PHP-based file manager for browsing, uploading, searching, and managing files and folders on your server.
 
+![Screenshot](screenshot.jpg?raw=true "Screenshot")
+
 ## 🚀 Features
 
 - **Directory Navigation**  
