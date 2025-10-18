@@ -27,7 +27,7 @@ A lightweight and responsive PHP-based file manager for browsing, uploading, sea
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/yourusername/php-file-manager.git
+   git clone https://github.com/adegard/PHP_files_manager.git
 Place the files on your PHP-enabled server.
 
 Make sure the files/ directory exists and is writable:
