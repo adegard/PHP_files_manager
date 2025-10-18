@@ -48,5 +48,6 @@ PHP 5.6 or higher
 
 A web server (Apache, Nginx, etc.)
 
-📄 License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
+## 📄 License
+This project is licensed under the GNU License. 
+Feel free to use and modify it as needed.
