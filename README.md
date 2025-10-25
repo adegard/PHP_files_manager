@@ -1,7 +1,7 @@
 
 # 📁 PHP File Manager
 
-A lightweight and responsive PHP-based file manager for browsing, uploading, searching, and managing files and folders on your server.
+A lightweight (less than 10kB with no external dependencies) and responsive PHP-based file manager for browsing, uploading, searching, and managing files and folders on your server.
 
 ![Screenshot](screenshot.jpg?raw=true "Screenshot")
 
